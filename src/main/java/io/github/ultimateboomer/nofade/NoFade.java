@@ -12,6 +12,6 @@ public class NoFade implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-
+		LOGGER.info(MOD_NAME + " is running");
 	}
 }
