@@ -23,7 +23,7 @@
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "nofade.mixins.json"
   ],
 
   "depends": {
