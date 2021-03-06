@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "nofade",
   "version": "${version}",
 
   "name": "No Fade",
@@ -9,8 +9,9 @@
     "UltimateBoomer"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/UltimateBoomer/mc-no-fade"
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/no-fade",
+    "sources": "https://github.com/UltimateBoomer/mc-no-fade",
+    "issues": "https://github.com/UltimateBoomer/mc-no-fade/issues"
   },
 
   "license": "MIT",
@@ -30,8 +31,5 @@
     "fabricloader": ">=0.7.4",
     "fabric": "*",
     "minecraft": "1.16.x"
-  },
-  "suggests": {
-    "another-mod": "*"
   }
 }
