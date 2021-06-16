@@ -4,7 +4,7 @@
   "package": "io.github.ultimateboomer.nofade.mixin",
   "compatibilityLevel": "JAVA_16",
   "client": [
-    "SplashScreenMixin",
+    "SplashOverlayMixin",
     "TitleScreenMixin"
   ],
   "injectors": {
